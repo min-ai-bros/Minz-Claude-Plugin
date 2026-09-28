@@ -1,0 +1,23 @@
+{
+  "name": "minz-ai",
+  "displayName": "Minz.ai",
+  "version": "0.1.0",
+  "description": "Read-only skills for Minz.ai: prepare customer calls, review the sales pipeline, plan your week and check MinzSpend expenses, using your Minz.ai workspace data.",
+  "author": {
+    "name": "Minz.ai",
+    "email": "support@minz.ai",
+    "url": "https://minz.ai"
+  },
+  "homepage": "https://mcp.minz.ai/docs",
+  "repository": "https://github.com/min-ai-bros/Minz-Claude-Plugin",
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "sales",
+    "pipeline",
+    "calendar",
+    "tasks",
+    "expenses",
+    "minz"
+  ]
+}
